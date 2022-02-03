@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "IndexAdmin";
+}
+
+<h2>IndexAdmin</h2>
+@*
+    Welcome  @HttpContext.Current.User.Identity.Name
+
+    @if (Request.IsAuthenticated)
+    {
+        using (Html.BeginForm("Logout","Admin",FormMethod.Post,new { id = "logoutForm" }))
+        {
+            <a href="javascript:document.getElementById('logoutForm').submit()">Logout</a>
+        }
+
+    }
+
+*@
+
+<div class="row">
+    Number of Online Users <strong id="counter"></strong>
+  <script src="@Url.Content("~/Scripts/jquery-1.10.2.min.js")"></script>
+  <script src="@Url.Content("~/Scripts/jquery.signalR-2.4.3.min.js")"></script>
+<script src="@Url.Content("~/signalr/hubs")"></script>
+    <script>
+        $(function () {
+            var counterHub = $.connection.counterHub;//declare variable for counterHub
+
+            $.connection.hub.start().done(function () {
+                //to do something after hub connected
+            });
+
+            counterHub.client.UpdateCount = function (count) {
+                $("#counter").text(count);
+                
+            }
+        });
+    </script>
+</div>

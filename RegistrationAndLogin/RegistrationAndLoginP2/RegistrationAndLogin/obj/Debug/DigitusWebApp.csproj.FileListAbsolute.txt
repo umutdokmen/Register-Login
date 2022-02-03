@@ -1,0 +1,134 @@
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\ApplicationInsights.config
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\csc.exe
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\vbc.exe
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\RegistrationAndLogin.dll.config
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\RegistrationAndLogin.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\RegistrationAndLogin.pdb
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\EntityFramework.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\EntityFramework.SqlServer.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.Web.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Helpers.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Mvc.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Razor.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.Razor.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\EntityFramework.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\EntityFramework.SqlServer.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.Web.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Razor.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.Razor.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Helpers.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Mvc.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\DigitusWebApp.csproj.CoreCompileInputs.cache
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\DigitusWebApp.csproj.CopyComplete
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.Security.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Newtonsoft.Json.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Owin.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.Security.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Newtonsoft.Json.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\umutd\Desktop\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\DigitusWebApp.csproj.AssemblyReference.cache
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\ApplicationInsights.config
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\csc.exe
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\vbc.exe
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\VBCSCompiler.exe
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\RegistrationAndLogin.dll.config
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\RegistrationAndLogin.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\RegistrationAndLogin.pdb
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\EntityFramework.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\EntityFramework.SqlServer.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.Web.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.ApplicationInsights.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.Security.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Newtonsoft.Json.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Owin.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Helpers.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Mvc.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Razor.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.Razor.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\EntityFramework.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\EntityFramework.SqlServer.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.Web.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.ApplicationInsights.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Microsoft.Owin.Security.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\Newtonsoft.Json.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Razor.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Webpages.Razor.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Helpers.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\bin\System.Web.Mvc.xml
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\DigitusWebApp.csproj.AssemblyReference.cache
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\DigitusWebApp.csproj.CoreCompileInputs.cache
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\DigitusWebApp.csproj.CopyComplete
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.dll
+C:\Users\umutd\Desktop\Umut Dökmen-RegistrationAndLogin\RegistrationAndLogin\RegistrationAndLoginP2\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
